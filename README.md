@@ -32,12 +32,12 @@ This project demonstrates:
 
 # Features
 
-✔ Predict JEE Rank using ML model  
-✔ Recommend NIT colleges based on predicted rank  
-✔ Category and quota filtering  
-✔ Interactive Streamlit web interface  
-✔ Percentile vs Rank visualization  
-✔ Fully deployed web application
+ Predict JEE Rank using ML model  
+ Recommend NIT colleges based on predicted rank  
+ Category and quota filtering  
+ Interactive Streamlit web interface  
+ Percentile vs Rank visualization  
+ Fully deployed web application
 
 ---
 
